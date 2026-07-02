@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dxtMC.aternos.me",
+    "ip": "dxtMC.aternos.me:38253",
     "port": 38253,
-    "version": "1.18.1",
+    "version": "1.19",
     "try-creative": false
   },
   "position": {
